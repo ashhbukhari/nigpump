@@ -27,7 +27,7 @@ const Pump = () => {
           [TWITTER]
         </a>
         <a
-          href="https://t.me/NiggaPump"
+          href="https://t.me/NiggaPumpSOL"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white font-bold text-md hover:underline"
