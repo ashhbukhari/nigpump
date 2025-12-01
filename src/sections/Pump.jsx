@@ -19,7 +19,7 @@ const Pump = () => {
       {/* Top Right Corner Links */}
       <div className="absolute top-4 right-4 flex flex-col items-end space-y-2">
         <a
-          href="https://x.com/niggadotpump"
+          href="https://x.com/i/communities/1995474840648585337"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white font-bold text-md hover:underline"
